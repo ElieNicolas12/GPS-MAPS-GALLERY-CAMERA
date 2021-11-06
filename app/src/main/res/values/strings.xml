@@ -1,4 +1,4 @@
-<>
+<resources>
     <string name="app_name">Android_Dev_Assignment_4</string>
     <string name="map_key" translatable="false"></string>
     <string name="title_activity_location">LocationActivity</string>
